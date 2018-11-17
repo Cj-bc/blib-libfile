@@ -1,0 +1,6 @@
+class:Library() {
+  @required string name = "libfile"
+  @required string url  = "https://github.com/Cj-bc/libfile"
+  @required array  scripts push "libfile"
+            string description = "File treating utilities"
+}
