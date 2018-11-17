@@ -4,3 +4,5 @@ class:Library() {
   @required array  scripts push "libfile"
             string description = "File treating utilities"
 }
+
+Type::InitializeStatic Library
